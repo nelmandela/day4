@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+}
+
+.google-homepage {
+    margin-top: 15%;
+    text-align: center;
+    background-color: white;
+}
+
+.btn-search {
+    background-color: #f2f2f2;
+}
